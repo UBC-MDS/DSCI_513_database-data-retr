@@ -12,15 +12,24 @@ By the end of the course, students are expected to be able to:
 4.  Write well-formed XML; use XPath and XQuery to write simple queries over an XML repository (i.e., XML database). 
 5.  Explain basic concepts of the Map Reduce paradigm. 
 
-## Teaching Team
+## Assessments
 
-| Position | Name  | Slack Handle | GHE Handle | Office Hours |
-| :------: | :---: | :----------: | :--------: | :-----------: |
-| Instructor | Bhav Dhillon | `@Bhav Dhillon` | `@bhavd` | Tuesdays, 12:30-1:30pm, CS 202|
-| Teaching Fellow | Rodolfo Lourenzutti | `@lourenzutti` | `@lourenzu` | To be scheduled as needed. |
-| Teaching Assistant | Aaron Berk |  `@Aaron Berk`  | `@aberk` | Tuesdays, 2:00pm - 3:00pm, LSK 311E |
-| Teaching Assistant | Glenn Bevilacqua | `@Glenn Bevilacqua` |  | Mondays, 12:30 - 1:30pm, ESB - 3174 |
-| Teaching Assistant | Pedro Odon | `@podon` |  | Fridays, 2:00pm - 3:00pm, ESB - 3174  |
+Labs
+
+|   | Lab topic   |  Due Date |
+|------|-----------|-----------|
+| [1](labs/lab1.md)<sup>*</sup> |  Intro to SQL. Embedded SQL programming in R | 2018-11-17|
+| [2](labs/lab2.md) | ER diagrams. Embedded SQL programming in Python. | 2018-11-24 |
+| [3](labs/lab3.md)<sup>*</sup> | Advanced SQL.| 2018-12-01 |
+| [4](labs/lab4.md) |  Write well-formed XML; extraction from XML; MapReduce | 2018-12-08 |
+
+Quizzes
+
+|     | Time | Date | Location |
+|-----|------|------|----------|
+| 1 | 15:00 - 15:30 | 2018-11-27 | In your lab section |
+| 2 | 11:00 - 11:30 | 2018-12-13 | DPM 301 |
+
 
 
 ## Lectures
@@ -37,21 +46,6 @@ By the end of the course, students are expected to be able to:
 | 7 | 2018-12-04 | Tue | Database application development; Introduction to semi-structured data and internet applications | [Lecture7.pdf](slides/Lecture7.pdf) |
 | 8 | 2018-12-06 |Thu  | Semantic web; Big data; Introduction to MapReduce | [Lecture8.pdf](slides/Lecture8.pdf); [cd_catalog.xml](slides/cd_catalog.xml); [cd_catalog.ipynb](slides/cd_catalog.ipynb) |
  
-## Labs
-
-|   | Lab topic   |  Due Date |
-|------|-----------|-----------|
-| [1](labs/lab1.md)<sup>*</sup> |  Intro to SQL. Embedded SQL programming in R | 2018-11-17|
-| [2](labs/lab2.md) | ER diagrams. Embedded SQL programming in Python. | 2018-11-24 |
-| [3](labs/lab3.md)<sup>*</sup> | Advanced SQL.| 2018-12-01 |
-| [4](labs/lab4.md) |  Write well-formed XML; extraction from XML; MapReduce | 2018-12-08 |
-
-## Quizzes
-|     | Time | Date | Location |
-|-----|------|------|----------|
-| 1 | 15:00 - 15:30 | 2018-11-27 | In your lab section |
-| 2 | 11:00 - 11:30 | 2018-12-13 | DPM 301 |
-
 
 
 ## Reference Material and other Resources
