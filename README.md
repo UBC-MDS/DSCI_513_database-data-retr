@@ -51,3 +51,4 @@ Quizzes
 ## Reference Material and other Resources
 * Ramakrishnan, Raghu and Gehrke, Johannes. Database Management Systems, 3rd Edition, McGraw-Hill, 2002. (http://pages.cs.wisc.edu/~dbbook/)
 * [SQL Tutorials on W3Schools](https://www.w3schools.com/sql/)
+* [Learn SQL basic and advanced concepts](https://www.scaler.com/topics/sql/)
